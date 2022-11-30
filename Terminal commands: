@@ -1,0 +1,31 @@
+Terminal commands:
+ ls folder_name - data inside folder
+ pwd - print current working directory
+ open . - open folder
+ touch file_name - creates new file (many files by adding space with extension)
+ rm file_name - remove file/files
+ ls-a - to view hidden files
+ rm -rf to delete the directory
+
+  git add abc.txt ---add file to commit/staging changes
+  git commit -m "message"
+  git add .  --> stage all changes at once
+  git add filenames as many as you want
+  git log --oneline --> checkout all old commits
+
+  git clone URL --> clone repo
+  git branch -M main
+  git push origin main -->we can change default from master to main
+
+
+git add filename
+git commit -m "message"
+git push branch
+
+
+git commit -am "message"
+git commit --amend “Add an anchor for the trial end section.”
+git commit -a -m “Update trial-activate page with changes from release." --> add multiple modified files
+
+
+Reword 
