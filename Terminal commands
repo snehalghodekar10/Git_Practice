@@ -28,4 +28,4 @@ git commit --amend “Add an anchor for the trial end section.”
 git commit -a -m “Update trial-activate page with changes from release." --> add multiple modified files
 
 
-Reword 
+reword 
